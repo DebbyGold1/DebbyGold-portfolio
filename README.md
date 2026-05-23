@@ -40,7 +40,7 @@ A data analytics project focused on analyzing student academic performance to id
 - Dashboard creation using Power BI / Tableau  
 - Insights on performance trends and improvement areas  
 
-*(You can later add GitHub links or screenshots here)*
+*https://github.com/DebbyGold1/Student-Data-Analysis/blob/main/Screenshot%202026-05-23%207.32.15%20PM.png*
 
 ---
 
@@ -57,7 +57,7 @@ A data analytics project focused on analyzing student academic performance to id
 
 I’m open to collaboration, learning opportunities, and networking in the data space.
 
-- LinkedIn: **[Add your LinkedIn link here]**
+- LinkedIn: **[www.linkedin.com/in/deborah-adebayo-262b22220]**
 
 ---
 
